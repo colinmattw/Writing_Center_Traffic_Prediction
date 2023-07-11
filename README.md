@@ -3,7 +3,7 @@ Program made for the Marian University writing center which uses frequency and i
 ---------------------------------------------------
 Created by Colin M Wareham
 ---------------------------------------------------
-This project introduced me to several new concepts in programming.
+This project introduced me to several new concepts in programming:
 1. My first project that interacted with an API.
 2. My first project where I had to make a business case for its development.
 3. My first project where I had to coordinate with various stakeholders such as IT, university administration, professors, and writing center staff.
