@@ -1,7 +1,7 @@
 # Writing_Center_Traffic_Prediction
 Program made for the Marian University writing center which uses frequency and importance of homework assignments to predict use of writing center resources.
 ---------------------------------------------------
-Created by Colim M Wareham
+Created by Colin M Wareham
 ---------------------------------------------------
 The python program first interfaces with Marian University's Canvas API, where it accesses assignment, quiz, and exam data from the participating professors.
 It then models the impact that a single assignment has on the utilization of the writing center's resources. This increases exponentially as the due date of the assignment approaches, and is 0 after the due date has passed.
