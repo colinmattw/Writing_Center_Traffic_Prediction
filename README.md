@@ -1,5 +1,5 @@
 # Writing_Center_Traffic_Prediction
-Program made for the Marian University writing center which uses frequency and importance of homework assignments to predict use of writing center resources.
+Program made for the Marian University Writing Center which uses frequency and importance of homework assignments to predict use of writing center resources.
 ---------------------------------------------------
 Created by Colin M Wareham
 ---------------------------------------------------
